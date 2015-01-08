@@ -1,0 +1,20 @@
+<!-- Java Script ================================================== -->
+{{--<script src="{{asset('assets/js/jquery-1.11.1.min.js')}}"></script>--}}
+{{--<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>--}}
+<script src="{{asset('site/scripts/jquery-1.10.2.min.js')}}"></script>
+<script src="{{asset('site/scripts/jquery-migrate-1.2.1.min.js')}}"></script>
+<script src="{{asset('site/scripts/jquery.flexslider.js')}}"></script>
+<script src="{{asset('site/scripts/jquery.selectnav.js')}}"></script>
+<script src="{{asset('site/scripts/jquery.twitter.js')}}"></script>
+<script src="{{asset('site/scripts/jquery.modernizr.js')}}"></script>
+<script src="{{asset('site/scripts/jquery.easing.1.3.js')}}"></script>
+<script src="{{asset('site/scripts/jquery.contact.js')}}"></script>
+<script src="{{asset('site/scripts/jquery.isotope.min.js')}}"></script>
+<script src="{{asset('site/scripts/jquery.jcarousel.js')}}"></script>
+<script src="{{asset('site/scripts/jquery.fancybox.min.js')}}"></script>
+<script src="{{asset('site/scripts/jquery.transit-modified.js')}}"></script>
+<script src="{{asset('site/scripts/jquery.layerslider-transitions.js')}}"></script>
+<script src="{{asset('site/scripts/jquery.layerslider.min.js')}}"></script>
+<script src="{{asset('site/scripts/jquery.shop.js')}}"></script>
+<script src="{{asset('site/scripts/custom.js')}}"></script>
